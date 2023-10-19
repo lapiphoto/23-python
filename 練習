@@ -1,0 +1,7 @@
+"""
+２重for文
+"""
+for i in range(3):
+    print("外側",i)
+    for j in range(2):
+        print("内側",j)
